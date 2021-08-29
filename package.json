@@ -1,6 +1,6 @@
 {
   "name": "@utkusarioglu/journeys",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A tool for creating accurate representations of objects throughout systems and components",
   "main": "index.js",
   "repository": "https://github.com/utkusarioglu/journeys.git",
