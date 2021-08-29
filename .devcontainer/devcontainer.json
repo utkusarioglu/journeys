@@ -1,0 +1,12 @@
+{
+  "name": "Journeys",
+  "dockerComposeFile": ["../docker-compose.yml", "docker-compose.yml"],
+  "service": "journeys",
+  "workspaceFolder": "/workspace",
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#777700"
+    }
+  },
+  "extensions": []
+}
